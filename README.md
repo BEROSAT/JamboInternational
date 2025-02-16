@@ -1,6 +1,18 @@
 # JamboInternational
 {
   "0":{
+  "id":"0",
+  "name":"DISCOVERY SCIENCE",
+  "description":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+  "live_url":"http://fl3.moveonjoy.com/Discovery_Science/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
+  "categorie":"INTERNATIONAL",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "1":{
   "id":"1",
   "name":"DISCOVERY HD",
   "description":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
@@ -12,8 +24,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "2":{
+  "id": "2",
   "name": "REAL LIFE",
   "description": "Real Life est une chaîne télévisée spécialisée aux crimes Divertissements et autres.",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4335",
@@ -24,8 +36,20 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+  "3":{
+  "id":"3",
+  "name":"DISCOVERY CHANNEL",
+  "description":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+  "live_url":"http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
+  "categorie":"INTERNATIONAL",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "4":{
+  "id": "4",
   "name": "TLC TV",
   "description": "TLC est une chaîne télévisée spécialisée au Divertissements et autres",
   "live_url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
@@ -36,8 +60,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "5":{
+  "id": "5",
   "name": "AMERICAN IDOL",
   "description": "American idol tv est une chaine televisee pour les competions got talent",
   "live_url": "https://d2h3esqi6ab3e7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-amzcfijfnc8wu/index.m3u8",
@@ -48,8 +72,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "6":{
+  "id": "6",
   "name": "UK GOT TALENT",
   "description": "UK GOT Talent tv est une chaine televisee pour les competions got talent en Angleterre",
   "live_url": "https://dhkq1p9audihq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ty7fjsrdyiaa7/index.m3u8",
@@ -60,8 +84,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+   "7":{
+  "id": "7",
   "name": "TELESUR ENGLISH",
   "description": "Telesur English est une chaine televisee",
   "live_url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
@@ -72,8 +96,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+   "8":{
+  "id": "8",
   "name": "FRANCE 2",
   "description": "France 2 est une chaine televisee du France",
   "live_url": "http://69.64.57.208/france2/playlist.m3u8",
@@ -84,8 +108,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+   "9":{
+  "id": "9",
   "name": "FRANCE 5",
   "description": "France 5 est une chaine televisee du France",
   "live_url": "http://69.64.57.208/france5/playlist.m3u8",
@@ -96,8 +120,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+   "10":{
+  "id": "10",
   "name": "LIFE TV",
   "description": "Life tv est une chaine televisee..",
   "live_url": "http://69.64.57.208/lifetv/playlist.m3u8",
@@ -108,8 +132,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+   "11":{
+  "id": "11",
   "name": "FAILARMY TV",
   "description": "FAILARMY TV est une chaîne de Télévision généraliste",
   "live_url": "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8",
@@ -132,8 +156,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "11":{
-  "id": "11",
+   "12":{
+  "id": "12",
   "name": "LIME LIGHTS TV",
   "description": "Lime lights TV est une chaîne de télévision de divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8",
@@ -144,8 +168,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "12":{
-  "id": "12",
+  "13":{
+  "id": "13",
   "name": "RPM TV",
   "description": "RPM TV est une chaîne de télévision de divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8",

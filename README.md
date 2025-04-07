@@ -127,6 +127,14 @@
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTA5Nzc0MTZf/rpm.jpeg",
   "categorie": "INTERNATIONAL"
+  },
+  "16":{
+  "id": "16",
+  "name": "MONDE LOISIR",
+  "description": "1416",
+  "live_url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAwNTI3NjFf/mondeloisir.png",
+  "categorie": "INTERNATIONAL"
   }
 }
 

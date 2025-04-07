@@ -135,6 +135,22 @@
   "live_url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODAwNTI3NjFf/mondeloisir.png",
   "categorie": "INTERNATIONAL"
+  },
+  "17":{
+  "id": "17",
+  "name": "CBS HD TV",
+  "description": "1417",
+  "live_url": "http://38.96.178.201/live/CBS/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAwNjkzMjVf/CBS.png",
+  "categorie": "INTERNATIONAL"
+  },
+  "18":{
+  "id": "18",
+  "name": "DISCOVERY HD",
+  "description": "1418",
+  "live_url": "http://38.96.178.201/live/Discovery/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
+  "categorie": "INTERNATIONAL"
   }
 }
 

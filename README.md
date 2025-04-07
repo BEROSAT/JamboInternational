@@ -151,6 +151,22 @@
   "live_url": "http://38.96.178.201/live/Discovery/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
   "categorie": "INTERNATIONAL"
+  },
+  "19":{
+  "id": "19",
+  "name": "LE FIGARO IDF",
+  "description": "1419",
+  "live_url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAwNzc2NjJf/Figaro.png",
+  "categorie": "INTERNATIONAL"
+  },
+  "20":{
+  "id": "20",
+  "name": "LE FIGARO IDF",
+  "description": "1420",
+  "live_url": "https://static.lefigaro.fr/secom/tnt.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAwNzc2NjVf/figarotv.jpg",
+  "categorie": "INTERNATIONAL"
   }
 }
 
